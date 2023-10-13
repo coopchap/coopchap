@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @coopchap
+- 👀 I’m interested in desktop and web application development
+- 🌱 I’m currently learning C#, JS, and Svelte
+- 📫 You can reach me at **dormers-strange.0w@icloud.com**
