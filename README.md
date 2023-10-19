@@ -42,6 +42,8 @@
     ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
     ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
 </p>
@@ -76,7 +78,7 @@
 <br>
 
 <li>
-<a href="https://discordapp.com/coopchap">
+<a href="https://discordapp.com/users/1080585772077432882">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -84,7 +86,7 @@
 <br>
 
 <li>
-  <a href="emailto:dormers-strange.0w@icloud.com">
+  <a href="mailto:dormers-strange.0w@icloud.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" style="margin-bottom: 5px;">
   </a>
 </li>
