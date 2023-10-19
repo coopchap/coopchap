@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Cooper Chapple </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4444&pause=550&color=0AD412&center=true&vCenter=true&random=false&width=435&lines=Self-teaching+full-stack+developer;Loves+learning;Always+learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4444&pause=550&color=0AD412&center=true&vCenter=true&random=false&width=435&lines=Self-teaching+desktop+developer;Loves+learning;Always+learning" alt="Typing SVG" /></a>
 </p>
 
 
