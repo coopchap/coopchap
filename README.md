@@ -15,7 +15,7 @@
 <br>
 
 - Very new, excited to get started
-- Want to learn full-stack application development
+- Want to learn desktop application development
 - Real dream is aviation
 
 <br><br>
